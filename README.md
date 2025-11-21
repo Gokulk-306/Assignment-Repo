@@ -103,7 +103,7 @@ I’m **Gokul K**, a DevOps Engineer Fresher passionate about automation, cloud 
 
 ## 🤝 Connect With Me
 
-🔗 LinkedIn: `https://www.linkedin.com/in/gokul-k30/`  
+🔗 LinkedIn: https://www.linkedin.com/in/gokul-k30/
 💻 GitHub: https://github.com/Gokulk-306  
 📧 Email: **ceecgokul2024@gmail.com**
 
