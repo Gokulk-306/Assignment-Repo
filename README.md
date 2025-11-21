@@ -78,7 +78,7 @@ Includes:
 
 ### 📷 **Screenshots**
 
-Screenshots for the Above task `https://docs.google.com/document/d/1yTBdq-oj6YG6ZJowFMqMvarF4RC9xX1v1uF34GjurVI/edit?usp=sharing` 
+Screenshots of the task `https://docs.google.com/document/d/1yTBdq-oj6YG6ZJowFMqMvarF4RC9xX1v1uF34GjurVI/edit?usp=sharing` 
 
 ---
 
