@@ -76,9 +76,8 @@ Includes:
 ### 🎥 **Project Walkthrough Video**
 `https://vimeo.com/1139226781?fl=tl&fe=ec`
 
-### 📷 **Screenshots**
-
-Screenshots of the task `https://docs.google.com/document/d/1yTBdq-oj6YG6ZJowFMqMvarF4RC9xX1v1uF34GjurVI/edit?usp=sharing` 
+### 📁**Screenshots Drive Link:**  
+👉 [Click here to view screenshots](https://docs.google.com/document/d/1yTBdq-oj6YG6ZJowFMqMvarF4RC9xX1v1uF34GjurVI/edit?usp=sharing)
 
 ---
 
